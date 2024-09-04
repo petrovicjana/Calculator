@@ -17,7 +17,7 @@ A simple calculator program written in C++ that performs basic arithmetic operat
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/yourusername/cpp-calculator.git
+   git clone https://github.com/petrovicjana/Calculator.git
    cd cpp-calculator
 
 2.  **Open in Visual Studio:**
