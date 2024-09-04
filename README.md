@@ -34,10 +34,10 @@ A simple calculator program written in C++ that performs basic arithmetic operat
 
 1. **Run the Program:**
 
-After building, run the program by clicking Debug > Start Without Debugging or press Ctrl + F5.
+   After building, run the program by clicking Debug > Start Without Debugging or press Ctrl + F5.
 
 2. **Follow On-screen Instructions:**
 
-Choose the desired operation (addition, subtraction, multiplication, etc.).
-Enter the required numbers.
-Follow the prompts to perform more calculations or exit the program.
+   Choose the desired operation (addition, subtraction, multiplication, etc.).
+   Enter the required numbers.
+   Follow the prompts to perform more calculations or exit the program.
